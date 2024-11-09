@@ -1,0 +1,13 @@
+{
+	"client": {
+		"host": "40s28p.aternos.me",
+		"port": "55266",
+		"username": "40s28pRunner"
+	},
+	"logLevel": ["error", "log", "debug"],
+	"action": {
+		"commands": ["forward", "back", "left", "right", "jump"],
+		"holdDuration": 5000,
+		"retryDelay": 15000
+	}
+}
